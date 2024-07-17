@@ -1,6 +1,6 @@
 # Crumbling-Kingdom
-Save the bread kingdom from the Unbread! <br/>
-Play as the Prince of Breadlandia to fight off the Unbread with his powerful butter knife!    
+Play as the Prince of Breadlandia to save the kingdom from the Unbread!
+
 
 ![image](https://github.com/user-attachments/assets/731b0a43-2046-42b1-958d-43edc97e0039)
 
@@ -10,6 +10,7 @@ Play as the Prince of Breadlandia to fight off the Unbread with his powerful but
 
 
 ## Unique Features
+3 Unique Levels
 Original Artwork 
 Original Soundtrack 
 
