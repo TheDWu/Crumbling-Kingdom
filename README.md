@@ -10,6 +10,9 @@ Play as the Prince of Breadlandia to fight off the Unbread with his powerful but
 
 
 ## Unique Features
+Original Artwork 
+Original Soundtrack 
+
 
 ## Controls
 **Movement**
@@ -23,4 +26,4 @@ C - Ability 2
 Abilities will be throughout the game
 **Interaction**
 V - Open Chest 
-
+ESC - Pause the game or exit to menu 
