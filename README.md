@@ -9,3 +9,18 @@ Play as the Prince of Breadlandia to fight off the Unbread with his powerful but
 ![image](https://github.com/user-attachments/assets/afe115e9-640b-46d6-b0e7-816889ec7a4b)
 
 
+## Unique Features
+
+## Controls
+**Movement**
+Arrow Keys to move
+Double tap Up Arrow to double jump
+**Attack**
+X - Basic Attack
+Z - Ability 1
+C - Ability 2 
+
+Abilities will be throughout the game
+**Interaction**
+V - Open Chest 
+
