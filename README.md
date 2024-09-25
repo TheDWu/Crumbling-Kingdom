@@ -1,4 +1,4 @@
-# Crumbling-Kingdom
+# Crumbling-Kingdom PC Game
 Play as the Prince of Breadlandia to save the kingdom from the Unbread!
 
 
@@ -28,3 +28,5 @@ Abilities will be throughout the game
 **Interaction**
 V - Open Chest 
 ESC - Pause the game or exit to menu 
+
+To have full access to the game, send a DM.
