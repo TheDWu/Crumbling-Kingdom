@@ -24,9 +24,10 @@ X - Basic Attack
 Z - Ability 1
 C - Ability 2 
 
-Abilities will be throughout the game
+Abilities will be unlocked throughout the game
 **Interaction**
 V - Open Chest 
 ESC - Pause the game or exit to menu 
 
+## Disclaimer
 To have full access to the game, send a DM.
